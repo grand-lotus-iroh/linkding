@@ -29,3 +29,4 @@ This section lists community projects around using linkding, in alphabetical ord
 - [Pinkt](https://github.com/fibelatti/pinboard-kotlin) An Android client for linkding. By [fibelatti](https://github.com/fibelatti)
 - [Postman collection](https://gist.github.com/gingerbeardman/f0b42502f3bc9344e92ce63afd4360d3) a group of saved request templates for API testing. By [gingerbeardman](https://github.com/gingerbeardman)
 - [serchding](https://github.com/ldwgchen/serchding) Full-text search for linkding. By [ldwgchen](https://github.com/ldwgchen)
+- [Greasy Fork Script](https://greasyfork.org/en/scripts/532208-auto-check-share-and-focus-tags-plus-ctrl-enter-save-and-close) A Tampermonkey script for speeding up linkding "Add bookmark".
